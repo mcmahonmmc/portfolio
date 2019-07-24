@@ -1,3 +1,7 @@
+Melissa McMahon Web Development Portfolio v1.0
+
+I used this template from HTML5 UP to create my portfolio as Moms Can Code School Cohort 3 student. I will update project upon completion.
+
 Stellar by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
